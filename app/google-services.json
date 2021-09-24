@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975532759766",
+    "project_id": "trip-planner-e74fa",
+    "storage_bucket": "trip-planner-e74fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975532759766:android:8baae8558c06b8c5354777",
+        "android_client_info": {
+          "package_name": "com.ossdProject.tripmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975532759766-aa5ios9gsnmfofjohn524o9mhuhj48be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA92HLqjoh6ej3xJ0clnA2DQpdSqW2LG80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975532759766-aa5ios9gsnmfofjohn524o9mhuhj48be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
